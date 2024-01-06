@@ -1,10 +1,10 @@
 # Japanese Universities Analytics 🏫📊
-Welcome to the Japanese Universities Analysis project! 🎓✨
+Welcome to the Japanese Universities Analytics project! 🎓✨
 
 ![Image](https://www.japantimes.co.jp/uploads/imported_images/uploads/2018/05/p13-sawa-a-20180515.jpg)
 
 ## Overview:
-This project aims to provide insights into Japanese universities, exploring factors influencing difficulty ranks and visualizing various aspects of these institutions.
+This project aims to provide insights into Japanese universities, exploring factors influencing difficulty ranks and visualizing various aspects of these institutions. It also provides ML modeling to predict the universities' difficulty rank. 
 
 ## Key Features:
 - Data Exploration: Investigate the dynamics behind difficulty ranks.
